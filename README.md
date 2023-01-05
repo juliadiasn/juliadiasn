@@ -1,29 +1,18 @@
-### Olá! Eu sou a Júlia Dias👋
+### Olá, eu sou a Júlia!👋
+- Estudo programção por hobbie
 
-- 🌱 Estudante de Front-end
-- 💬 Discord: Biscoito#3451
-- 😄 Pronouns: ela/dela
+## 🔭 Atualmente:
+- Apenas estudos, foquei no presente para construir o futuro.
 
-<div align="center">
-  <a href="https://github.com/juliadiasn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliadiasn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  ##
-  **Linguagens**
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 🎓 Linguagens que aprendi/aprendo:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-##
-**Redes sociais**
 
-<div> 
-  <a href="https://instagram.com/juliadias.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juliadiasnascimento874@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/j%C3%BAlia-dias-nascimento-a86871253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
+## 🎛️ Sistemas operacionais que uso:
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 💬 Entre em contato:
+![Discord](https://img.shields.io/badge/Biscoito%233451-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
