@@ -1,4 +1,4 @@
-### Olá, eu sou a Júlia!👋
+## Olá, eu sou a Júlia!👋
 - Estudo programção por hobbie
 
 ## 🔭 Atualmente:
