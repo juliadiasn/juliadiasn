@@ -22,3 +22,8 @@
 
 ## 💬 Entre em contato:
 ![Discord](https://img.shields.io/badge/Biscoito%233451-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+## 👩‍💻 Estatísticas
+
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliadiasn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliadiasn&layout=compact)](https://github.com/juliadiasn/github-readme-stats)
