@@ -1,29 +1,18 @@
 
 ## Olá, eu sou a Júlia!
 
-- Estudo programação por hobbie e simplesmente adoro.
+### 💫 About Me:
+🔭 Estudo Front-End por hobbie<br>⚡ Cursando Técnico em Informática - IFMG
 
 
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliadias.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/júlia-dias-nascimento-a86871253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/namediasjulia) 
 
+### 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juliadiasn&theme=omni&hide_border=false&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliadiasn&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Sobre mim
-
-- Atualmente estudo Técnico em INformática no IFMG Campus São João Evangelista.
-
-- Por fora da escola, faço curso de HTML e CSS. Pretendo me tornar desenvolvedora web, pois gosto muito dessa área. 
-
-
-## 🎓 Linguagens que aprendi/aprendo:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-## 🎛️ Sistemas operacionais que uso:
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## 💬 Entre em contato:
-![Discord](https://img.shields.io/badge/Biscoito%233451-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-## 👩‍💻 Estatísticas
-
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliadiasn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliadiasn&layout=compact)](https://github.com/juliadiasn/github-readme-stats)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juliadiasn&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
